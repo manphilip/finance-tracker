@@ -32,3 +32,5 @@
 
 # Ignore nvm
 .nvm/
+nvm/
+npm-debug.log
